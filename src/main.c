@@ -4,7 +4,7 @@
 
 int main() {
   printf("\n\n");
-  char msg[200]; //*msg = NULL; // "Questo è un test completo dello stack OSI in C! Vediamo tutti i layer in azione.";
+  char msg[200]; //*msg = NULL; // "Questo è un test completo dello stack OSI in C! illustra tutti i layer in azione.";
   
   printf("Inserisci un comando(msg)> ");  // prompt
     fgets(msg, sizeof(msg), stdin);       // leggi input utente
